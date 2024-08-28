@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.mjs",
   "scripts": {
-    "convert": "markdown-pdf"
+    "convert": "node ./main.mjs"
   },
   "keywords": [],
   "author": "Even Stensberg <evenstensberg@gmail.com>",
